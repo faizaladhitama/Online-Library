@@ -1,0 +1,37 @@
+#home img{
+	height: 400px;
+	width: 350px;
+}
+
+.space{
+	white-space:pre;
+}
+#home,label,#label,#user-books{
+	background:none;
+	color:white;
+}
+
+.no-background{
+	background:none;	
+}
+
+#header{
+	background-color:white;
+}
+#book-container{
+	position: relative;
+	left:4%;
+	margin-top:3%;
+}
+
+body{
+	background-image: url("../images/background/background1.jpg");
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+textarea{
+	resize:none;
+}
